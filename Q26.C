@@ -8,3 +8,14 @@ void imprimir(int n) {
         printf("\n");
     }
 }
+
+int main() {
+    int n;
+
+    printf("Digite n: ");
+    scanf("%d", &n);
+
+    imprimir(n);
+
+    return 0;
+}
