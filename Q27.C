@@ -23,7 +23,7 @@ int main() {
         if (soma == N)
             printf("Raiz quadrada = %d\n", termos);
         else
-            printf("Nao eh quadrado perfeito\n");
+            printf("Nao é quadrado perfeito\n");
 
     } while (1);
 
